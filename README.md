@@ -1,11 +1,11 @@
 # SOC-2-TYPE-1
-# 🛡️ HealthPulse GRC Audit & Compliance Assessment
+# HealthPulse GRC Audit & Compliance Assessment
 
 ## SOC 2 / HIPAA / ISO 27001 Simulated Audit Environment
 
 ---
 
-# 📌 Overview
+# Overview
 
 This repository contains a simulated Governance, Risk, and Compliance (GRC) audit engagement for **HealthPulse**, a healthcare data analytics organization operating in AWS cloud infrastructure.
 
@@ -22,7 +22,7 @@ The objective of this project was to assess HealthPulse’s security posture, id
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 The assessment focused on the following objectives:
 
@@ -36,7 +36,7 @@ The assessment focused on the following objectives:
 
 ---
 
-# 🏢 Simulated Organizational Environment
+# Simulated Organizational Environment
 
 | Category                | Details                            |
 | ----------------------- | ---------------------------------- |
@@ -48,7 +48,7 @@ The assessment focused on the following objectives:
 
 ---
 
-# 🔍 Audit Scope
+# Audit Scope
 
 ## People
 
@@ -82,7 +82,7 @@ The assessment focused on the following objectives:
 
 ---
 
-# 📋 Audit Methodology
+# Audit Methodology
 
 The assessment included:
 
@@ -111,7 +111,7 @@ Technical validation included:
 
 ---
 
-# 🛡️ Security Controls Assessed
+# Security Controls Assessed
 
 ## 1. Access Management
 
@@ -133,7 +133,7 @@ Technical validation included:
 
 ---
 
-# ⚠️ Key Risks Identified
+# Key Risks Identified
 
 ## Unauthorized Access to PHI
 
@@ -149,7 +149,7 @@ Vendors with access to PHI may introduce compliance and supply chain security ri
 
 ---
 
-# 📈 Cybersecurity Maturity Assessment
+# Cybersecurity Maturity Assessment
 
 HealthPulse demonstrates a moderate cybersecurity maturity level with several foundational controls implemented.
 
@@ -172,7 +172,7 @@ HealthPulse demonstrates a moderate cybersecurity maturity level with several fo
 
 ---
 
-# ✅ Recommendations
+# Recommendations
 
 ## Strengthen Identity & Access Management
 
@@ -200,7 +200,7 @@ Implement:
 
 ---
 
-# 🧠 Skills Demonstrated
+# Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -216,7 +216,7 @@ This project demonstrates practical experience in:
 
 ---
 
-# 🏗️ Future Enhancements
+# Future Enhancements
 
 Potential future improvements include:
 
@@ -228,7 +228,7 @@ Potential future improvements include:
 
 ---
 
-# 📚 Frameworks Referenced
+# Frameworks Referenced
 
 * HIPAA Security Rule
 * ISO 27001
@@ -236,7 +236,7 @@ Potential future improvements include:
 
 ---
 
-# 📌 Disclaimer
+# Disclaimer
 
 This repository contains a simulated cybersecurity and compliance assessment created for educational and professional portfolio purposes only.
 
@@ -244,7 +244,7 @@ No real healthcare or patient data was used.
 
 ---
 
-# 👤 Author
+# Author
 
 **Maddrick Long**
 
